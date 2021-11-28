@@ -1,7 +1,7 @@
 # DOBCalc
 A simple app that converts date of birth to seconds, minutes, and hours.
 
-This app created during the ['The Complete Android 12 & Kotlin Development Masterclass'](https://tutorials.eu/courses/android-10-kotlin/) by Denis Panjuta [Tutorials.eu](https://tutorials.eu/)
+This app created during the ['The Complete Android 12 & Kotlin Development Masterclass'](https://www.udemy.com/course/android-kotlin-developer/) by Denis Panjuta [Tutorials.eu](https://tutorials.eu/)
 
 Things I learned from creating this app:
 * Kotlin basics
