@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">app_name</string>
+    <string name="app_name">DOB Calculator</string>
     <string name="calculate_your">CALCULATE YOUR</string>
     <string name="age">AGE</string>
     <string name="in_minutes">IN MINUTES</string>
