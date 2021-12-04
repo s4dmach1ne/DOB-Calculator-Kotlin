@@ -10,7 +10,6 @@ Things I learned from creating this app:
 * OnDateSetListener
 * SimpleDateFormat
 
-
 # Screenshots
 <p float="left">
 <img src="https://github.com/s4dmach1ne/DOBCalc/blob/master/ss1.png" width="360" height="800">
